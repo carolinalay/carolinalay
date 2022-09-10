@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @carolinalay
-- 👀 I’m interested in learning SQL, Tableau and Power BI to start my carrer in Data Analytics 
-- 🌱 I’m currently learning SQL 
+- 👋 Hi, I’m Carolina Lay and I'm based in Prague, Czech Republic
+- 👀 I’m interested in improving my skills in SQL, Tableau and Power BI 
 - 💞️ I’m looking to collaborate on SQL projects
-- 📫 How to reach me ...
 
 <!---
 carolinalay/carolinalay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
